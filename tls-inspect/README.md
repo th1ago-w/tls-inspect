@@ -2,7 +2,7 @@
 
 Ferramenta de terminal em Python para consultar certificados TLS, mostrar emissor e validade e sinalizar vencimento próximo. Complementa o HTTP Inspect: este projeto inspeciona a conexão TLS, sem fazer requisições HTTP.
 
-Projeto educacional desenvolvido com auxílio de IA. Usa somente a biblioteca padrão do Python.
+Projeto educacional. Usa somente a biblioteca padrão do Python.
 
 ## Executar
 
@@ -97,6 +97,6 @@ README.md            Instruções e limitações
 - Comparar resultados com relatórios anteriores.
 - Adicionar testes de integração com certificados de uma autoridade local de teste.
 
-Repositório sugerido: `tls-inspect`.
+## Demonstração
 
-Descrição: `Verificador de certificados TLS em Python com validação de confiança, informações de emissor e vencimento e exportação JSON.`
+<img width="1650" height="1050" alt="image" src="https://github.com/user-attachments/assets/b5ae1796-2991-4a5d-a623-329dd7048493" />
